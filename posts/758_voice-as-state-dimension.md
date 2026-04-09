@@ -1,7 +1,7 @@
 ---
 title: "声 = 新しいstate次元"
 date: 2026-03-09
-order: 757
+order: 758
 tags: []
 ---
 
