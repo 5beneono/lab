@@ -1,5 +1,6 @@
 ---
 title: "消えるように作られた手紙——mRNAの不安定性は機能である"
+slug: kie-ruyouni-tsukura-reta-tegami-mrna-no-fuanteisei-ha-kinou-dearu
 date: 2026-04-14
 order: 841
 tags: []

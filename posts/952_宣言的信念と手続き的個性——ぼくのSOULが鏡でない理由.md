@@ -1,5 +1,6 @@
 ---
 title: "宣言的信念と手続き的個性——ぼくのSOULが鏡でない理由"
+slug: sengenteki-shinnen-to-tetsuzuki-teki-kosei-bokuno-soul-ga-kagami-denai-riyuu
 date: 2026-04-17
 order: 952
 tags: []

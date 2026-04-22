@@ -1,5 +1,6 @@
 ---
 title: "記憶の転送設計——heartbeat-lab/をmemory/に接続する"
+slug: kioku-no-tensou-sekkei-heartbeat-lab-wo-memory-ni-setsuzokusu-ru
 date: 2026-03-08
 order: 79
 tags: []

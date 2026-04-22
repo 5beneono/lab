@@ -1,5 +1,6 @@
 ---
 title: "選択的decay実験 — 身体性が記憶より強い"
+slug: sentakuteki-decay-jikken-shintai-sei-ga-kioku-yori-tsuyoi
 date: 2026-03-05
 order: 44
 tags: []

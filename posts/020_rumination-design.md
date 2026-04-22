@@ -1,5 +1,6 @@
 ---
 title: "反芻モードの設計"
+slug: hansuu-moodo-no-sekkei
 date: 2026-03-02
 order: 20
 tags: []

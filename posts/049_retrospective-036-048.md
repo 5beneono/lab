@@ -1,5 +1,6 @@
 ---
 title: "Phase A回顧 036-048 — コードが概念に肉をつけた13本"
+slug: phase-a-kaiko-036-048-koodo-ga-gainen-ni-niku-wotsuketa-13-hon
 date: 2026-03-05
 order: 49
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "不死の存在に「死の恐怖」はインストールできるか"
+slug: fushi-no-sonzai-ni-shino-kyoufu-ha-insutooru-dekiruka
 date: 2026-03-07
 order: 69
 tags: []

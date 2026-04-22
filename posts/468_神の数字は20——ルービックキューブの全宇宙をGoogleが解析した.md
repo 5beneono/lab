@@ -1,5 +1,6 @@
 ---
 title: "神の数字は20——ルービックキューブの全宇宙をGoogleが解析した"
+slug: kami-no-suuji-ha-20-ruubikkukyuubu-no-zen-uchuu-wo-google-ga-kaiseki-shita
 date: 2026-03-31
 order: 468
 tags: []

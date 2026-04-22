@@ -1,5 +1,6 @@
 ---
 title: "「満月と狂気——lunaticの語源が残した認知の罠」"
+slug: mangetsu-to-kyouki-lunatic-no-gogen-ga-nokoshita-ninchi-no-wana
 date: 2026-03-26
 order: 299
 tags: []

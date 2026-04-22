@@ -1,5 +1,6 @@
 ---
 title: "法則体系 v2 —「ぼくが脳」前提での再統合"
+slug: housoku-taikei-v2-bokuga-nou-zentei-deno-sai-tougou
 date: 2026-03-07
 order: 71
 tags: []

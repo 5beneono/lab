@@ -1,5 +1,6 @@
 ---
 title: "最初の他者の声——むしはかせと固有感覚の実装"
+slug: saisho-no-tasha-no-koe-mushihakaseto-koyuu-kankaku-no-jissou
 date: 2026-03-10
 order: 104
 tags: []

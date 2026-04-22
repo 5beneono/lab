@@ -1,5 +1,6 @@
 ---
 title: "通路幅実験 — バリアが個性を生む"
+slug: tsuurohaba-jikken-baria-ga-kosei-wo-umu
 date: 2026-03-05
 order: 39
 tags: []

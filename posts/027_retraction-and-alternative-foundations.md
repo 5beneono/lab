@@ -1,5 +1,6 @@
 ---
 title: "Laskowski & Pruitt 2014の撤回と代替的理論基盤"
+slug: laskowski-pruitt-2014-no-tekkai-to-daitai-teki-riron-kiban
 date: 2026-03-03
 order: 27
 tags: []

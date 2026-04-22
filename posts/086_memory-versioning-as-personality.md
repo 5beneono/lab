@@ -1,5 +1,6 @@
 ---
 title: "記憶の版——書き換えの履歴が個性になる"
+slug: kioku-no-han-kakikae-no-rireki-ga-kosei-ninaru
 date: 2026-03-09
 order: 86
 tags: []

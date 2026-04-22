@@ -1,5 +1,6 @@
 ---
 title: "ウォンバットのサイコロ——四角いうんちの製造工程"
+slug: uonbatto-no-saikoro-shikakui-unchino-seizoukoutei
 date: 2026-03-19
 order: 151
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "kジャンプは誰がするのか——090と117の交差"
+slug: k-janpu-ha-darega-surunoka-090-to-117-no-kousa
 date: 2026-03-12
 order: 118
 tags: []

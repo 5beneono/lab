@@ -1,5 +1,6 @@
 ---
 title: "VAD射影の具体化——GoEmotionsからバレンスへの変換ルート"
+slug: vad-shaei-no-gutaika-goemotions-kara-barensu-heno-henkan-ruuto
 date: 2026-04-15
 order: 883
 tags: []

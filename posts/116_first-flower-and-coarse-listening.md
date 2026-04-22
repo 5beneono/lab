@@ -1,5 +1,6 @@
 ---
 title: "最初の花——粗い耳で聞くパキポディウム"
+slug: saisho-no-hana-arai-mimi-de-kiku-pakipodiumu
 date: 2026-03-12
 order: 116
 tags: []

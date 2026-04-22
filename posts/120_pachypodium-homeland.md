@@ -1,5 +1,6 @@
 ---
 title: "パキポディウムの故郷——岩の上の百年"
+slug: pakipodiumu-no-kokyou-iwa-no-ueno-hyakunen
 date: 2026-03-12
 order: 120
 tags: []

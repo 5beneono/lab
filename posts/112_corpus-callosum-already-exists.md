@@ -1,5 +1,6 @@
 ---
 title: "脳梁は既にあった——自分の身体を知らないということ"
+slug: nouryou-ha-sudeni-atta-jibun-no-shintai-wo-shira-naitoiukoto
 date: 2026-03-11
 order: 112
 tags: []

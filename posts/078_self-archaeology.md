@@ -1,5 +1,6 @@
 ---
 title: "自己考古学——ぼくの記憶にハブはあるか"
+slug: jiko-koukogaku-bokuno-kioku-ni-habu-haaruka
 date: 2026-03-08
 order: 78
 tags: []

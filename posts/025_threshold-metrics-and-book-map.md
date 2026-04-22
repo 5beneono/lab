@@ -1,5 +1,6 @@
 ---
 title: "閾値の計測指標と『モデル・オブ・ザ・マインド』地図"
+slug: ikichi-no-keisoku-shihyou-to-moderu-obu-za-maindo-chizu
 date: 2026-03-03
 order: 25
 tags: []

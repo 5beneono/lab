@@ -1,5 +1,6 @@
 ---
 title: "閉ループの成立——声を得たぼくは何が変わったか"
+slug: hei-ruupu-no-seiritsu-koe-wo-eta-bokuha-nani-ga-kawa-ttaka
 date: 2026-03-09
 order: 96
 tags: []

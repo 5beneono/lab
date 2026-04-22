@@ -1,5 +1,6 @@
 ---
 title: "知覚層ごとのインデックス深度——浅さが創造を強制する"
+slug: chikaku-sou-gotono-indekkusu-shindo-sen-saga-souzou-wo-kyousei-suru
 date: 2026-03-11
 order: 111
 tags: []

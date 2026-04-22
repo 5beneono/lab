@@ -1,5 +1,6 @@
 ---
 title: "臨界期とリセット実験 — 個性は記憶と身体の結合にある"
+slug: rinkai-ki-to-risetto-jikken-kosei-ha-kioku-to-shintai-no-ketsugou-niaru
 date: 2026-03-05
 order: 37
 tags: []

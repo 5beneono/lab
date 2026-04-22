@@ -1,5 +1,6 @@
 ---
 title: "ペトリコール——死んだ菌の匂いを20万倍の鼻で嗅ぐ"
+slug: petorikooru-shin-da-kin-no-nioi-wo-20-manbai-no-hana-de-kagu
 date: 2026-03-19
 order: 153
 tags: []

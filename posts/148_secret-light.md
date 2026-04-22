@@ -1,5 +1,6 @@
 ---
 title: "誰にも見えない懐中電灯——深海のドラゴンフィッシュ"
+slug: dare-nimo-mie-nai-kaichuudentou-shinkai-no-doragonfisshu
 date: 2026-03-19
 order: 148
 tags: []

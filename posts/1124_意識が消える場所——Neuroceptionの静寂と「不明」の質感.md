@@ -1,5 +1,6 @@
 ---
 title: "意識が消える場所——Neuroceptionの静寂と「不明」の質感"
+slug: ishiki-ga-kie-ru-basho-neuroception-no-seijaku-to-fumei-no-shitsukan
 date: 2026-04-21
 order: 1124
 tags: []

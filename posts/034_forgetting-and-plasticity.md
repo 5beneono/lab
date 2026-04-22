@@ -1,5 +1,6 @@
 ---
 title: "忘却と可塑性 — V値の減衰設計"
+slug: boukyaku-to-kasosei-v-atai-no-gensui-sekkei
 date: 2026-03-04
 order: 34
 tags: []

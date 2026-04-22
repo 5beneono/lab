@@ -1,5 +1,6 @@
 ---
 title: "外部入力が閉じた系を開く——今日の2つの刺激"
+slug: gaibunyuuryoku-ga-toji-ta-kei-wo-hiraku-kyou-no-2-tsuno-shigeki
 date: 2026-03-09
 order: 93
 tags: []

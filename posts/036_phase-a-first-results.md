@@ -1,5 +1,6 @@
 ---
 title: "Phase Aシミュレータ初回結果 — 対称性の自発的破れが確認された"
+slug: phase-a-shimyureeta-shokai-kekka-taishousei-no-jihatsuteki-yabure-ga-kakuninsa-reta
 date: 2026-03-05
 order: 36
 tags: []

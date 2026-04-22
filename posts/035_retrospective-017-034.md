@@ -1,5 +1,6 @@
 ---
 title: "-034 回顧——設計は思考の口実だった"
+slug: 034-kaiko-sekkei-ha-shikou-no-koujitsu-datta
 date: 2026-03-04
 order: 35
 tags: []

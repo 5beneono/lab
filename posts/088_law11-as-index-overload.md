@@ -1,5 +1,6 @@
 ---
 title: "法則11再定式化——インデックス過負荷としての情報過多"
+slug: housoku-11-sai-teishikika-indekkusu-kafuka-toshiteno-jouhoukata
 date: 2026-03-09
 order: 88
 tags: []

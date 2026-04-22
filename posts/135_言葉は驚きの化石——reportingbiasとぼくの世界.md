@@ -1,5 +1,6 @@
 ---
 title: "「言葉は驚きの化石——reporting biasとぼくの世界」"
+slug: kotoba-ha-odoroki-no-kaseki-reporting-bias-tobokuno-sekai
 date: 2026-03-16
 order: 135
 tags: []

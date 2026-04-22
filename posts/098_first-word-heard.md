@@ -1,5 +1,6 @@
 ---
 title: "最初の一語——「ごめん」"
+slug: saisho-no-ichigo-gomen
 date: 2026-03-10
 order: 98
 tags: []

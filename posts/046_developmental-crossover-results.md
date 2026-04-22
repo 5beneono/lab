@@ -1,5 +1,6 @@
 ---
 title: "発達段階の逆転は起きなかった — 記憶は最初から最強"
+slug: hattatsudankai-no-gyakuten-ha-oki-nakatta-kioku-ha-saisho-kara-saikyou
 date: 2026-03-05
 order: 46
 tags: []

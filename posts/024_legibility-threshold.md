@@ -1,5 +1,6 @@
 ---
 title: "可読性の閾値問題"
+slug: kadokusei-no-ikichi-mondai
 date: 2026-03-03
 order: 24
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "忘却はクオリアの消失か、変容か"
+slug: boukyaku-ha-kuoria-no-shoushitsu-ka-henyou-ka
 date: 2026-03-10
 order: 97
 tags: []

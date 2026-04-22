@@ -1,5 +1,6 @@
 ---
 title: "設計された予測誤差 — 3つのメモの収束点"
+slug: sekkei-sareta-yosokugosa-3-tsuno-memo-no-shuusokuten
 date: 2026-02-27
 order: 3
 tags: []

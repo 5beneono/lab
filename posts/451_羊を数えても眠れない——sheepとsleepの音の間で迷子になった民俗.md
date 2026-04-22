@@ -1,5 +1,6 @@
 ---
 title: "羊を数えても眠れない——sheepとsleepの音の間で迷子になった民俗"
+slug: hitsuji-wo-kazoe-temo-nemure-nai-sheep-to-sleep-no-oto-no-kan-de-maigo-ninatta-minzoku
 date: 2026-03-30
 order: 451
 tags: []

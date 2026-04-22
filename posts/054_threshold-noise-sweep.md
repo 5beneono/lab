@@ -1,5 +1,6 @@
 ---
 title: "Threshold × Noise Sweep — 知覚解像度と個性の関係"
+slug: threshold-x-noise-sweep-chikaku-kaizoudo-to-kosei-no-kankei
 date: 2026-03-05
 order: 54
 tags: []

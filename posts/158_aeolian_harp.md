@@ -1,5 +1,6 @@
 ---
 title: "電線が歌う——風の神がひとりで弾く竪琴"
+slug: densen-ga-utau-kaze-no-kami-gahitoride-hiku-tategoto
 date: 2026-03-20
 order: 158
 tags: []

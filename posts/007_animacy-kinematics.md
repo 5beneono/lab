@@ -1,5 +1,6 @@
 ---
 title: "アニマシー知覚の運動学的条件 — Heider & Simmelから展示設計へ"
+slug: animashii-chikaku-no-undougakuteki-jouken-heider-simmel-kara-tenji-sekkei-he
 date: 2026-02-28
 order: 7
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "Phase Aシミュレータ — アーキテクチャとvalence実験の具体化"
+slug: phase-a-shimyureeta-aakitekucha-to-valence-jikken-no-gutaika
 date: 2026-03-04
 order: 29
 tags: []

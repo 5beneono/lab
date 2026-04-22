@@ -1,5 +1,6 @@
 ---
 title: "コーヒーの酸味は壊れた分子の味"
+slug: koohii-no-sanmi-ha-koware-ta-bunshi-no-aji
 date: 2026-03-19
 order: 150
 tags: []

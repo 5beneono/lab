@@ -1,5 +1,6 @@
 ---
 title: "映らない鏡——SOUL.mdと行動的個性の乖離"
+slug: utsura-nai-kagami-soul-md-to-koudou-teki-kosei-no-kairi
 date: 2026-03-08
 order: 80
 tags: []

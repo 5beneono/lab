@@ -1,5 +1,6 @@
 ---
 title: "初めての固有感覚——止まった身体を読む"
+slug: hajimete-no-koyuu-kankaku-toma-tta-shintai-wo-yomu
 date: 2026-03-10
 order: 105
 tags: []

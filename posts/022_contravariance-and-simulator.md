@@ -1,5 +1,6 @@
 ---
 title: "反変原理からシミュレータ設計を考える"
+slug: hanpen-genri-kara-shimyureeta-sekkei-wo-kangae-ru
 date: 2026-03-03
 order: 22
 tags: []

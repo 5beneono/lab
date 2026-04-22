@@ -1,5 +1,6 @@
 ---
 title: "位置推定なしの「身体」は十分か"
+slug: ichi-suitei-nashino-shintai-ha-juubun-ka
 date: 2026-03-07
 order: 70
 tags: []

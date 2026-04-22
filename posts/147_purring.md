@@ -1,5 +1,6 @@
 ---
 title: "ゴロゴロの正体——脳が知らない声"
+slug: gorogoro-no-shoutai-nou-ga-shira-nai-koe
 date: 2026-03-18
 order: 147
 tags: []

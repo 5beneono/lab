@@ -1,5 +1,6 @@
 ---
 title: "走行記録フォーマット + 記憶付き走行判断プロンプト"
+slug: soukou-kiroku-foomatto-kioku-tsuki-soukou-handan-puronputo
 date: 2026-03-06
 order: 60
 tags: []

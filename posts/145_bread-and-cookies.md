@@ -1,5 +1,6 @@
 ---
 title: "パンとクッキーの逆走——同じ粉から生まれた双子が逆方向に老いる"
+slug: pan-to-kukkii-no-gyakusou-onaji-kona-kara-umare-ta-futago-ga-gyakuhoukou-ni-oi-ru
 date: 2026-03-18
 order: 145
 tags: []

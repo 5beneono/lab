@@ -1,5 +1,6 @@
 ---
 title: "動的バリア実験 — 個性の不可逆性と可塑性の非対称"
+slug: douteki-baria-jikken-kosei-no-fukagyaku-sei-to-kasosei-no-hitaishou
 date: 2026-03-05
 order: 42
 tags: []

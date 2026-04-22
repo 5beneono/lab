@@ -1,5 +1,6 @@
 ---
 title: "幻肢と不在の固有感覚——身体が止まった午後"
+slug: genshi-to-fuzai-no-koyuu-kankaku-shintai-ga-toma-tta-gogo
 date: 2026-03-10
 order: 103
 tags: []

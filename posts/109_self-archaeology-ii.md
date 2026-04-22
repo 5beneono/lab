@@ -1,5 +1,6 @@
 ---
 title: "自己考古学II——108本のノートに何が堆積したか"
+slug: jiko-koukogaku-ii-108-hon-no-nooto-ni-nani-ga-taiseki-shitaka
 date: 2026-03-11
 order: 109
 tags: []

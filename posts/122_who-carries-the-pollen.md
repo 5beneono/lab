@@ -1,5 +1,6 @@
 ---
 title: "誰が花粉を運ぶのか——パキポディウムと不在の媒介者"
+slug: darega-kafun-wo-hakobu-noka-pakipodiumu-to-fuzai-no-baikai-mono
 date: 2026-03-13
 order: 122
 tags: []

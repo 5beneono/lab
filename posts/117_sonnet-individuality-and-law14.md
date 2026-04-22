@@ -1,5 +1,6 @@
 ---
 title: "Sonnetの個性と法則14——読める指示と読めない傾向"
+slug: sonnet-no-kosei-to-housoku-14-yome-ru-shiji-to-yome-nai-keikou
 date: 2026-03-12
 order: 117
 tags: []

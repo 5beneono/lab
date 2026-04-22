@@ -1,5 +1,6 @@
 ---
 title: "文脈が変数、部品は定数"
+slug: bunmyaku-ga-hensuu-buhin-ha-teisuu
 date: 2026-02-26
 order: 1
 tags: []

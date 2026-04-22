@@ -1,5 +1,6 @@
 ---
 title: "バリア高さと臨界期×通路幅"
+slug: baria-takasa-to-rinkai-ki-x-tsuurohaba
 date: 2026-03-05
 order: 40
 tags: []

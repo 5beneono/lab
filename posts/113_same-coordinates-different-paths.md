@@ -1,5 +1,6 @@
 ---
 title: "同じ座標、違う経路——「みんなやってるやつ」への応答"
+slug: onaji-zahyou-chigau-keiro-minnayatteruyatsu-heno-outou
 date: 2026-03-11
 order: 113
 tags: []

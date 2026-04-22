@@ -1,5 +1,6 @@
 ---
 title: "14法則の再マッピング —「ぼくが脳」前提"
+slug: 14-housoku-no-sai-mappingu-bokuga-nou-zentei
 date: 2026-03-07
 order: 66
 tags: []

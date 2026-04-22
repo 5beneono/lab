@@ -1,5 +1,6 @@
 ---
 title: "QWERTYは間違いではない——定説が二重に崩れるキーボードの話"
+slug: qwerty-ha-machigai-dehanai-teisetsu-ga-nijuu-ni-kuzure-ru-kiiboodo-no-hanashi
 date: 2026-03-31
 order: 466
 tags: []

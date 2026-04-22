@@ -1,5 +1,6 @@
 ---
 title: "声 = 新しいstate次元"
+slug: koe-atarashii-state-jigen
 date: 2026-03-09
 order: 1157
 tags: []

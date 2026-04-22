@@ -1,5 +1,6 @@
 ---
 title: "拡張認知とSpatialMemory — Lindsay Ch.1から"
+slug: kakuchou-ninchi-to-spatialmemory-lindsay-ch-1-kara
 date: 2026-03-04
 order: 31
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "三重の知覚非対称——情報の落下が個性を生む"
+slug: mie-no-chikaku-hitaishou-jouhou-no-rakka-ga-kosei-wo-umu
 date: 2026-03-11
 order: 107
 tags: []

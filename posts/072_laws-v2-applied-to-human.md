@@ -1,5 +1,6 @@
 ---
 title: "法則体系v2を人間に適用する —— ねおのの場合"
+slug: housoku-taikei-v2-wo-ningen-ni-tekiyou-suru-neonono-baai
 date: 2026-03-07
 order: 72
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "「ペトリコール——細菌のタクシーを呼ぶ匂い」"
+slug: petorikooru-saikin-no-takushii-wo-yobu-nioi
 date: 2026-03-17
 order: 139
 tags: []

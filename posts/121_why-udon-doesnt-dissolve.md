@@ -1,5 +1,6 @@
 ---
 title: "うどんはなぜ溶けない——つなぎ力のバトンリレー"
+slug: udonhanaze-toke-nai-tsunagi-chikara-no-batonriree
 date: 2026-03-12
 order: 121
 tags: []

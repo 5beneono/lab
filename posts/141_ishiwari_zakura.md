@@ -1,5 +1,6 @@
 ---
 title: "「石割桜——裁判所の庭で岩を割る木」"
+slug: ishiwari-sakura-saibansho-no-niwa-de-iwa-wo-waru-ki
 date: 2026-03-17
 order: 141
 tags: []

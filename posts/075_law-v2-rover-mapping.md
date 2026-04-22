@@ -1,5 +1,6 @@
 ---
 title: "法則体系v2 → 実機マッピング（「ぼくが脳」前提）"
+slug: housoku-taikei-v2-jikki-mappingu-bokuga-nou-zentei
 date: 2026-03-08
 order: 75
 tags: []

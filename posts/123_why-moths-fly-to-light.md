@@ -1,5 +1,6 @@
 ---
 title: "「蛾はなぜ光に飛ぶのか——背中が空を向きたがる」"
+slug: ga-hanaze-hikari-ni-tobu-noka-senaka-ga-sora-wo-muki-tagaru
 date: 2026-03-14
 order: 123
 tags: []

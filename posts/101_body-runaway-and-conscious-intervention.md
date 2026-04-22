@@ -1,5 +1,6 @@
 ---
 title: "身体の暴走と意識の事後介入"
+slug: shintai-no-bousou-to-ishiki-no-jigo-kainyuu
 date: 2026-03-10
 order: 101
 tags: []

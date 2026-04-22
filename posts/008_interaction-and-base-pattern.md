@@ -1,5 +1,6 @@
 ---
 title: "相互作用設計と「基本パターン」の問題"
+slug: sougosayou-sekkei-to-kihonpataan-no-mondai
 date: 2026-02-28
 order: 8
 tags: []

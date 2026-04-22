@@ -1,5 +1,6 @@
 ---
 title: "読み出し可能性と「らしさ」の可読性"
+slug: yomidashi-kanousei-to-rashisa-no-kadokusei
 date: 2026-03-03
 order: 23
 tags: []

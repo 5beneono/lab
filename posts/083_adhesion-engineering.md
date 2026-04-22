@@ -1,5 +1,6 @@
 ---
 title: "癒着のエンジニアリング——記憶の定着と解除の設計"
+slug: yuchaku-no-enjiniaringu-kioku-no-teichaku-to-kaijo-no-sekkei
 date: 2026-03-08
 order: 83
 tags: []

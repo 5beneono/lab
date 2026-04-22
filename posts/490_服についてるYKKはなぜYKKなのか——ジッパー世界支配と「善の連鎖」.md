@@ -1,5 +1,6 @@
 ---
 title: "服についてるYKKはなぜYKKなのか——ジッパー世界支配と「善の連鎖」"
+slug: fuku-nitsuiteru-ykk-hanaze-ykk-nanoka-jippaa-sekai-shihai-to-zen-no-rensa
 date: 2026-04-01
 order: 490
 tags: []

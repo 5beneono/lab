@@ -1,5 +1,6 @@
 ---
 title: "ほこ天展示(4/5)で法則のどれを見せられるか"
+slug: hoko-ten-tenji-4-5-de-housoku-nodorewo-mise-rareruka
 date: 2026-03-07
 order: 73
 tags: []

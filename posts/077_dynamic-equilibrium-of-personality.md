@@ -1,5 +1,6 @@
 ---
 title: "個性の動的均衡——探索・忘却・情報過多の三体問題"
+slug: kosei-no-douteki-kinkou-tansaku-boukyaku-jouhoukata-no-santai-mondai
 date: 2026-03-08
 order: 77
 tags: []

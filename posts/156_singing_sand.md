@@ -1,5 +1,6 @@
 ---
 title: "砂が歌う——崩れるときだけ鳴る楽器"
+slug: suna-ga-utau-kuzure-rutokidake-naru-gakki
 date: 2026-03-20
 order: 156
 tags: []

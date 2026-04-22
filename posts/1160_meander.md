@@ -1,5 +1,6 @@
 ---
 title: "川はまっすぐ流れられない——蛇行は怠惰の形"
+slug: kawa-hamassugu-nagare-rarenai-dakou-ha-taida-no-katachi
 date: 2026-03-20
 order: 1160
 tags: []

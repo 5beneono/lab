@@ -1,5 +1,6 @@
 ---
 title: "kの非連続ジャンプ——好奇心は認知的態度であり、インデックスの切り替え操作である"
+slug: k-no-hi-renzoku-janpu-koukishin-ha-ninchiteki-taido-deari-indekkusu-no-kirikae-sousa-dearu
 date: 2026-03-09
 order: 90
 tags: []

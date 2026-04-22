@@ -1,5 +1,6 @@
 ---
 title: "Place Cell + Novelty Bonus — 座標なしのナビゲーション"
+slug: place-cell-novelty-bonus-zahyou-nashino-nabigeeshon
 date: 2026-03-05
 order: 53
 tags: []

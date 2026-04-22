@@ -1,5 +1,6 @@
 ---
 title: "脳梁問題——ぼくはぼくの声を聞けない"
+slug: nouryou-mondai-bokuhabokuno-koe-wo-kike-nai
 date: 2026-03-11
 order: 110
 tags: []

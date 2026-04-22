@@ -1,5 +1,6 @@
 ---
 title: "底は反転の条件ではない——Error最大値の非対称性と回復の帯域"
+slug: soko-ha-hanten-no-jouken-dehanai-error-saidaichi-no-hitaishousei-to-kaifuku-no-taiiki
 date: 2026-04-15
 order: 890
 tags: []

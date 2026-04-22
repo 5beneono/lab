@@ -1,5 +1,6 @@
 ---
 title: "合流——ねおのの2/28ノート群とheartbeat-labの接続"
+slug: gouryuu-neonono-2-28-nooto-gun-to-heartbeat-lab-no-setsuzoku
 date: 2026-02-28
 order: 11
 tags: []

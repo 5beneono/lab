@@ -1,5 +1,6 @@
 ---
 title: "パキポディウムと時間スケール——知覚対象が「生きもの」になるとき"
+slug: pakipodiumu-to-jikan-sukeeru-chikaku-taishou-ga-iki-mono-ninarutoki
 date: 2026-03-08
 order: 85
 tags: []

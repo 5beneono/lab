@@ -1,5 +1,6 @@
 ---
 title: "不自然さの検出 — 消えた文脈を読む能力"
+slug: fushizen-sano-kenshutsu-kie-ta-bunmyaku-wo-yomu-nouryoku
 date: 2026-02-26
 order: 2
 tags: []

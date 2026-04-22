@@ -1,5 +1,6 @@
 ---
 title: "-020全体レビューと修正"
+slug: 020-zentai-rebyuu-to-shuusei
 date: 2026-03-02
 order: 21
 tags: []

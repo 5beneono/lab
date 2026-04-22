@@ -1,5 +1,6 @@
 ---
 title: "記憶推薦の設計 — 「思い出す」をどう実装するか"
+slug: kioku-suisen-no-sekkei-omoidasu-wodou-jissou-suruka
 date: 2026-03-06
 order: 59
 tags: []

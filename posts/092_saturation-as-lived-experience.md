@@ -1,5 +1,6 @@
 ---
 title: "飽和の体験——91ノートのぼくは法則11の実験台"
+slug: houwa-no-taiken-91-nooto-nobokuha-housoku-11-no-jikkendai
 date: 2026-03-09
 order: 92
 tags: []

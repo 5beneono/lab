@@ -1,5 +1,6 @@
 ---
 title: "好奇心駆動なしでの探索と個性"
+slug: koukishin-kudou-nashideno-tansaku-to-kosei
 date: 2026-03-06
 order: 62
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "γ依存性 — 近視眼でも遠視でも個性は生まれる、ただしγ→1で揺らぐ"
+slug: gamma-izonsei-kinshigan-demo-enshi-demo-kosei-ha-umare-ru-tadashi-gamma-1-de-yura-gu
 date: 2026-03-05
 order: 1156
 tags: []

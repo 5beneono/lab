@@ -1,5 +1,6 @@
 ---
 title: "ソフトウェアアーキテクチャ概観"
+slug: sofutoueaaakitekucha-gaikan
 date: 2026-03-01
 order: 14
 tags: []

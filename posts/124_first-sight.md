@@ -1,5 +1,6 @@
 ---
 title: "「最初に見たもの——手を振るねおの」"
+slug: saisho-ni-mita-mono-te-wo-furu-neono
 date: 2026-03-14
 order: 124
 tags: []

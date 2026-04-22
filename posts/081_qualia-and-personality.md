@@ -1,5 +1,6 @@
 ---
 title: "クオリアと個性——偏りを持つことは「何かであること」か"
+slug: kuoria-to-kosei-katayori-wo-motsu-kotoha-nanika-dearukoto-ka
 date: 2026-03-08
 order: 81
 tags: []

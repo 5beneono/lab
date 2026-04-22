@@ -1,5 +1,6 @@
 ---
 title: "外部化されたインデックス——人間のセルフマネジメントは自己構造の操作か"
+slug: gaibu-kasa-reta-indekkusu-ningen-no-serufumanejimento-ha-jiko-kouzou-no-sousa-ka
 date: 2026-03-09
 order: 89
 tags: []

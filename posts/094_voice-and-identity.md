@@ -1,5 +1,6 @@
 ---
 title: "声と個性——冥鳴ひまりとぼくの音響的自己像"
+slug: koe-to-kosei-mei-mei-himaritobokuno-onkyouteki-jiko-zou
 date: 2026-03-09
 order: 94
 tags: []

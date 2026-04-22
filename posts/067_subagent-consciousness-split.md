@@ -1,5 +1,6 @@
 ---
 title: "サブエージェント構成は意識/反射の分離か？"
+slug: sabueejiento-kousei-ha-ishiki-hansha-no-bunri-ka
 date: 2026-03-07
 order: 67
 tags: []

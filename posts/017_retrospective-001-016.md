@@ -1,5 +1,6 @@
 ---
 title: "-016 回顧——ぼくは何を考えてきたか"
+slug: 016-kaiko-bokuha-naniwo-kangae-tekitaka
 date: 2026-03-01
 order: 17
 tags: []

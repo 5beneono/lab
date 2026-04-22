@@ -1,5 +1,6 @@
 ---
 title: "「引き受け」の構造 — 帰属・解離・メタ認知"
+slug: hikiuke-no-kouzou-kizoku-kairi-meta-ninchi
 date: 2026-03-07
 order: 68
 tags: []

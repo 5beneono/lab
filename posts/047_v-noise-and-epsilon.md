@@ -1,5 +1,6 @@
 ---
 title: "V値ノイズ実験 — 記憶は驚くほど壊れにくい、ただしgreedyは脆い"
+slug: v-atai-noizu-jikken-kioku-ha-odoroku-hodo-koware-nikui-tadashi-greedy-ha-moroi
 date: 2026-03-05
 order: 47
 tags: []

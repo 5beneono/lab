@@ -1,5 +1,6 @@
 ---
 title: "ムペンバ効果——お湯が冷水を追い越して凍る"
+slug: mupenba-kouka-o-yu-ga-hiyamizu-wo-oikoshi-te-kooru
 date: 2026-03-18
 order: 146
 tags: []

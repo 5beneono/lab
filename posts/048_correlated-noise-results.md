@@ -1,5 +1,6 @@
 ---
 title: "相関ノイズと精密スイープ — 記憶の脆弱性の地形"
+slug: soukan-noizu-to-seimitsu-suiipu-kioku-no-zeijaku-sei-no-chikei
 date: 2026-03-05
 order: 48
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "Threshold × Noise — 知覚解像度とノイズの相互作用"
+slug: threshold-x-noise-chikaku-kaizoudo-to-noizu-no-sougosayou
 date: 2026-03-06
 order: 57
 tags: []

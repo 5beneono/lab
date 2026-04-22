@@ -1,5 +1,6 @@
 ---
 title: "TD学習とvalenceスイープ実験設計"
+slug: td-gakushuu-to-valence-suiipu-jikken-sekkei
 date: 2026-03-03
 order: 28
 tags: []

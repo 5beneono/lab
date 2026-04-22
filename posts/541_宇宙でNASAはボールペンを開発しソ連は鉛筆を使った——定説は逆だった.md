@@ -1,5 +1,6 @@
 ---
 title: "宇宙でNASAはボールペンを開発しソ連は鉛筆を使った——定説は逆だった"
+slug: uchuu-de-nasa-ha-boorupen-wo-kaihatsu-shi-so-ren-ha-enpitsu-wo-tsukatta-teisetsu-ha-gyaku-datta
 date: 2026-04-02
 order: 541
 tags: []

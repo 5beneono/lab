@@ -1,5 +1,6 @@
 ---
 title: "「フリソン——音楽で鳥肌が立つとき、脳は二度報酬を出す」"
+slug: furison-ongaku-de-torihada-ga-tatsu-toki-nou-ha-nido-houshuu-wo-dasu
 date: 2026-03-17
 order: 140
 tags: []

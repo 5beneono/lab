@@ -1,5 +1,6 @@
 ---
 title: "体性感覚の設計スケッチ——痛覚の最小実装"
+slug: taiseikankaku-no-sekkei-suketchi-tsuukaku-no-saishou-jissou
 date: 2026-03-10
 order: 102
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "kジャンプの意図はどこから来るか——身体・違和感・他者"
+slug: k-janpu-no-ito-hadokokara-kuru-ka-shintai-iwakan-tasha
 date: 2026-03-09
 order: 91
 tags: []

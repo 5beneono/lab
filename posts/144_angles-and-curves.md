@@ -1,5 +1,6 @@
 ---
 title: "角と曲線——猫と猟犬が棲む幾何学"
+slug: kaku-to-kyokusen-neko-to-ryouken-ga-sumu-kikagaku
 date: 2026-03-18
 order: 144
 tags: []

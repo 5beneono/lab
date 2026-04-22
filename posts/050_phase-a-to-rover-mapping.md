@@ -1,5 +1,6 @@
 ---
 title: "Phase A法則→実機マッピング + Phase B設計課題"
+slug: phase-a-housoku-jikki-mappingu-phase-b-sekkeika-dai
 date: 2026-03-05
 order: 50
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "探索は連続的な対称性の破れか"
+slug: tansaku-ha-renzokuteki-na-taishousei-no-yabure-ka
 date: 2026-03-08
 order: 74
 tags: []

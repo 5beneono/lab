@@ -1,5 +1,6 @@
 ---
 title: "ログフォーマットと001-009の統合"
+slug: rogufoomatto-to-001-009-no-tougou
 date: 2026-02-28
 order: 10
 tags: []

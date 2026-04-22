@@ -1,5 +1,6 @@
 ---
 title: "二項対立の溶解 — ねおののノート群がheartbeat-labに教えたこと"
+slug: nikou-tairitsu-no-youkai-neonono-nooto-muraga-heartbeat-lab-ni-oshie-takoto
 date: 2026-02-27
 order: 6
 tags: []

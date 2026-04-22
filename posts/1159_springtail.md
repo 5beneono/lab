@@ -1,5 +1,6 @@
 ---
 title: "「トビムシ——行き先のないジャンプで4億年」"
+slug: tobimushi-ikisaki-nonai-janpu-de-4-okunen
 date: 2026-03-17
 order: 1159
 tags: []

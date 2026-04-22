@@ -1,5 +1,6 @@
 ---
 title: "蜂蜜は腐らない——3000年前の壺からまだ食べられるものが出てくる"
+slug: hachimitsu-ha-kusara-nai-3000-nenmae-no-tsubo-karamada-tabe-rarerumonoga-dete-kuru
 date: 2026-03-20
 order: 157
 tags: []

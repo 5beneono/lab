@@ -1,5 +1,6 @@
 ---
 title: "窓を開ける三つの方法——EMDR・Coherence Therapy・潜在原因の交差点"
+slug: mado-wo-hirake-ru-mittsu-no-houhou-emdr-coherence-therapy-senzai-gen-in-no-kousaten
 date: 2026-04-15
 order: 864
 tags: []

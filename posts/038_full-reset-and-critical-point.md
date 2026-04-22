@@ -1,5 +1,6 @@
 ---
 title: "完全リセット実験 — 個性は記憶と身体の結合にある"
+slug: kanzen-risetto-jikken-kosei-ha-kioku-to-shintai-no-ketsugou-niaru
 date: 2026-03-05
 order: 38
 tags: []

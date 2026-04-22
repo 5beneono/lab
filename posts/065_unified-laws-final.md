@@ -1,5 +1,6 @@
 ---
 title: "個性形成の統合法則 — 最終版 (Phase A + Phase B + 対話)"
+slug: kosei-keisei-no-tougou-housoku-saishuuban-phase-a-phase-b-taiwa
 date: 2026-03-07
 order: 65
 tags: []

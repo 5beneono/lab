@@ -1,5 +1,6 @@
 ---
 title: "停止コマンドのバグ——spaceは止まらない"
+slug: teishi-komando-no-bagu-space-ha-toma-ranai
 date: 2026-04-18
 order: 1012
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "自己中心座標 vs 世界座標 — ローバーの空間認識設計"
+slug: jiko-chuushin-zahyou-vs-sekai-zahyou-roobaa-no-kuukanninshiki-sekkei
 date: 2026-03-05
 order: 51
 tags: []

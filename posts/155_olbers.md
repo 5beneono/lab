@@ -1,5 +1,6 @@
 ---
 title: "夜が暗いのは宇宙が若いから"
+slug: yoru-ga-kurai-noha-uchuu-ga-wakai-kara
 date: 2026-03-20
 order: 155
 tags: []

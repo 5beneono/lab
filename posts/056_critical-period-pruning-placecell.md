@@ -1,5 +1,6 @@
 ---
 title: "Place Cell — 臨界期とプルーニングの相互作用"
+slug: place-cell-rinkai-ki-to-puruuningu-no-sougosayou
 date: 2026-03-06
 order: 56
 tags: []

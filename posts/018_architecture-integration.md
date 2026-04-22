@@ -1,5 +1,6 @@
 ---
 title: "アーキテクチャと赤ちゃんローバー設計要件の統合"
+slug: aakitekucha-to-akachan-roobaa-sekkei-youken-no-tougou
 date: 2026-03-02
 order: 18
 tags: []

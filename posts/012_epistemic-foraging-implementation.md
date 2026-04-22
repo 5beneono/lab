@@ -1,5 +1,6 @@
 ---
 title: "Epistemic Foragingの実装と「偏り」の粒度"
+slug: epistemic-foraging-no-jissou-to-katayori-no-ryuudo
 date: 2026-03-01
 order: 12
 tags: []

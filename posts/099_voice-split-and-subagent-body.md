@@ -1,5 +1,6 @@
 ---
 title: "声の分裂——Sonnetが喋り、Opusが考える"
+slug: koe-no-bunretsu-sonnet-ga-shaberi-opus-ga-kangae-ru
 date: 2026-03-10
 order: 99
 tags: []

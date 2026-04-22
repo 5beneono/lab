@@ -1,5 +1,6 @@
 ---
 title: "「猫はなぜふみふみするのか——乳を出ない相手に押す手」"
+slug: neko-hanazefumifumisurunoka-chichi-wo-dena-i-aite-ni-osu-te
 date: 2026-03-14
 order: 1158
 tags: []

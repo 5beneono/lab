@@ -1,5 +1,6 @@
 ---
 title: "聞こえない耳——STT精度問題が問うもの"
+slug: kiko-enai-mimi-stt-seido-mondai-ga-tou-mono
 date: 2026-03-09
 order: 95
 tags: []

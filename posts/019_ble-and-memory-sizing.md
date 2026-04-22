@@ -1,5 +1,6 @@
 ---
 title: "BLE個体識別の技術調査 + エピソード記憶の容量設計"
+slug: ble-kotaishikibetsu-no-gijutsu-chousa-episoodo-kioku-no-youryou-sekkei
 date: 2026-03-02
 order: 19
 tags: []

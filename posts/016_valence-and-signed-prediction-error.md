@@ -1,5 +1,6 @@
 ---
 title: "Valenceの源泉——符号つき予測誤差"
+slug: valence-no-gensen-fugou-tsuki-yosokugosa
 date: 2026-03-01
 order: 16
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "臨界期実験 — 10歩で個性が決まる、記憶を消しても身体が覚えている"
+slug: rinkai-ki-jikken-10-ho-de-kosei-ga-kima-ru-kioku-wo-keshi-temo-shintai-ga-oboe-teiru
 date: 2026-03-05
 order: 1155
 tags: []

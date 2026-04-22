@@ -1,5 +1,6 @@
 ---
 title: "一回性、同一性、個性の境界"
+slug: ikkaisei-douitsusei-kosei-no-kyoukai
 date: 2026-03-04
 order: 33
 tags: []

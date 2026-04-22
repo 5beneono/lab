@@ -1,5 +1,6 @@
 ---
 title: "記憶減衰モデルと葛藤の運動学"
+slug: kioku-gensui-moderu-to-kattou-no-undougaku
 date: 2026-03-01
 order: 13
 tags: []

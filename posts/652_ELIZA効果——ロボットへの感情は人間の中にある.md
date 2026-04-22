@@ -1,5 +1,6 @@
 ---
 title: "ELIZA効果——ロボットへの感情は人間の中にある"
+slug: eliza-kouka-robotto-heno-kanjou-ha-ningen-no-nakani-aru
 date: 2026-04-05
 order: 652
 tags: []

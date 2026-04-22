@@ -1,5 +1,6 @@
 ---
 title: "「猫はなぜ四角に座るのか——存在しない箱でも座る」"
+slug: neko-hanaze-shikaku-ni-suwaru-noka-sonzai-shinai-hako-demo-suwaru
 date: 2026-03-17
 order: 142
 tags: []

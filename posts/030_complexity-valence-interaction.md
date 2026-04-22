@@ -1,5 +1,6 @@
 ---
 title: "環境複雑さ × valence の交互作用"
+slug: kankyou-fukuzatsusa-x-valence-no-kougosayou
 date: 2026-03-04
 order: 30
 tags: []

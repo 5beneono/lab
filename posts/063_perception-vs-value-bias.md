@@ -1,5 +1,6 @@
 ---
 title: "知覚の偏りと価値の偏り — 分離可能か"
+slug: chikaku-no-katayori-to-kachi-no-katayori-bunrikanou-ka
 date: 2026-03-06
 order: 63
 tags: []

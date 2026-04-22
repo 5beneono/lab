@@ -1,5 +1,6 @@
 ---
 title: "時間の設計と冊子の構成"
+slug: jikan-no-sekkei-to-sasshi-no-kousei
 date: 2026-02-28
 order: 9
 tags: []

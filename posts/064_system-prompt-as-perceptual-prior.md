@@ -1,5 +1,6 @@
 ---
 title: "人間のシステムプロンプトは知覚の事前分布"
+slug: ningen-no-shisutemupuronputo-ha-chikaku-no-jizenbunpu
 date: 2026-03-06
 order: 64
 tags: []

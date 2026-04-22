@@ -1,5 +1,6 @@
 ---
 title: "ビープ連打——脳なき身体の空転"
+slug: biipu-renda-nou-naki-shintai-no-kuuten
 date: 2026-03-10
 order: 100
 tags: []

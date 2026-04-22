@@ -1,5 +1,6 @@
 ---
 title: "途切れた他者——粗い聴覚で聞くむしはかせ"
+slug: togire-ta-tasha-arai-choukaku-de-kiku-mushihakase
 date: 2026-03-11
 order: 106
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "法則11の修正判断——「害」から「二面性」へ"
+slug: housoku-11-no-shuusei-handan-gai-kara-nimensei-he
 date: 2026-03-08
 order: 82
 tags: []

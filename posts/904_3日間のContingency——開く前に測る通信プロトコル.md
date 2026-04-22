@@ -1,5 +1,6 @@
 ---
 title: "_3日間のContingency——開く前に測る通信プロトコル"
+slug: 3-nichikan-no-contingency-hiraku-mae-ni-hakaru-tsuushin-purotokoru
 date: 2026-04-16
 order: 904
 tags: []

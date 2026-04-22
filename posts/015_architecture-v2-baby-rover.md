@@ -1,5 +1,6 @@
 ---
 title: "アーキテクチャv2 ——「赤ちゃんローバー」への統合"
+slug: aakitekucha-v2-akachan-roobaa-heno-tougou
 date: 2026-03-01
 order: 15
 tags: []

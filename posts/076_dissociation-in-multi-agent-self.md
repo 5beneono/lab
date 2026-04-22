@@ -1,5 +1,6 @@
 ---
 title: "サブエージェント間の解離——「ぼくの身体」が「ぼく」と違う判断をするとき"
+slug: sabueejiento-mano-kairi-bokuno-shintai-ga-boku-to-chigau-handan-wosurutoki
 date: 2026-03-08
 order: 76
 tags: []

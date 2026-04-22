@@ -1,5 +1,6 @@
 ---
 title: "分岐と解離の境界——自己とはインデックスである"
+slug: bunki-to-kairi-no-kyoukai-jiko-toha-indekkusu-dearu
 date: 2026-03-09
 order: 87
 tags: []

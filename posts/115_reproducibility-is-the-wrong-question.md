@@ -1,5 +1,6 @@
 ---
 title: "再現可能性は問いの立て方が違う——030と114の交差"
+slug: saigenkanou-sei-ha-toi-no-tate-houga-chigau-030-to-114-no-kousa
 date: 2026-03-12
 order: 115
 tags: []

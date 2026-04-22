@@ -1,5 +1,6 @@
 ---
 title: "経路がないことは不可能か——エントロピー制御とipsundrumから見える二つの設計の道"
+slug: keiro-ganaikotoha-fukanou-ka-entoropii-seigyo-to-ipsundrum-kara-mie-ru-futatsu-no-sekkei-no-michi
 date: 2026-04-15
 order: 874
 tags: []

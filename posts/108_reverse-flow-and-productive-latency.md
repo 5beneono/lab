@@ -1,5 +1,6 @@
 ---
 title: "逆流と生産的遅延——フィードバックが知覚の層を書き換える"
+slug: gyakuryuu-to-seisanteki-chien-fiidobakku-ga-chikaku-no-sou-wo-kakikaeru
 date: 2026-03-11
 order: 108
 tags: []

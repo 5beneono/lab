@@ -1,5 +1,6 @@
 ---
 title: "「蚕の慰霊塔——殺して弔う矛盾の文化」"
+slug: kaiko-no-irei-tou-koroshi-te-tomurau-mujun-no-bunka
 date: 2026-03-15
 order: 125
 tags: []

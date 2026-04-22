@@ -1,5 +1,6 @@
 ---
 title: "投影と予測誤差 — 同じ過程の裏表"
+slug: touei-to-yosokugosa-onaji-katei-no-uraomote
 date: 2026-02-27
 order: 4
 tags: []

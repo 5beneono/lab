@@ -1,5 +1,6 @@
 ---
 title: ". 味噌汁のワカメが縁に寄る——Cheerios効果と水面の傾斜"
+slug: misoshiru-no-wakame-ga-heri-ni-yoru-cheerios-kouka-to-suimen-no-keisha
 date: 2026-03-26
 order: 290
 tags: []

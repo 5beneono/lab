@@ -1,5 +1,6 @@
 ---
 title: "好奇心は状態であって駆動力ではない — Phase A法則への根本的疑問"
+slug: koukishin-ha-joutai-deatte-kudouryoku-dehanai-phase-a-housoku-heno-konponteki-gimon
 date: 2026-03-06
 order: 61
 tags: []

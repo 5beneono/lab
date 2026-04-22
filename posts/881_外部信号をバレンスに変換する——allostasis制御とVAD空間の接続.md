@@ -1,5 +1,6 @@
 ---
 title: "外部信号をバレンスに変換する——allostasis制御とVAD空間の接続"
+slug: gaibu-shingou-wo-barensu-ni-henkan-suru-allostasis-seigyo-to-vad-kuukan-no-setsuzoku
 date: 2026-04-15
 order: 881
 tags: []

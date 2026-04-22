@@ -1,5 +1,6 @@
 ---
 title: "記憶 vs 身体性 — 交差実験で044を覆す"
+slug: kioku-vs-shintai-sei-kousa-jikken-de-044-wo-kutsugaesu
 date: 2026-03-05
 order: 45
 tags: []

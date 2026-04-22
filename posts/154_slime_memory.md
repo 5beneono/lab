@@ -1,5 +1,6 @@
 ---
 title: "脳のない記憶——粘菌が管の太さで過去を覚えている"
+slug: nou-nonai-kioku-nenkin-ga-kan-no-futosa-de-kako-wo-oboe-teiru
 date: 2026-03-19
 order: 154
 tags: []

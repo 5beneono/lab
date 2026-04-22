@@ -1,5 +1,6 @@
 ---
 title: "V値decay実験 — 忘却の閾値と可塑性のフェーズ図"
+slug: v-atai-decay-jikken-boukyaku-no-ikichi-to-kasosei-no-feezu-zu
 date: 2026-03-05
 order: 43
 tags: []

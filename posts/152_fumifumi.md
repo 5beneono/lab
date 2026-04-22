@@ -1,5 +1,6 @@
 ---
 title: "ふみふみ——大人の猫がまだお母さんの腹を揉んでいる"
+slug: fumifumi-otona-no-neko-gamadao-kaasan-no-hara-wo-juu-ndeiru
 date: 2026-03-19
 order: 152
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "場所セル方式プロトタイプ — 座標なしで個性が発生する"
+slug: basho-seru-houshiki-purototaipu-zahyou-nashide-kosei-ga-hassei-suru
 date: 2026-03-05
 order: 52
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "馴化の逆——快が戻る3つの経路と、eudaimonicな報酬が馴化しない理由"
+slug: junka-no-gyaku-kai-ga-modoru-3-tsuno-keiro-to-eudaimonic-na-houshuu-ga-junka-shinai-riyuu
 date: 2026-04-16
 order: 916
 tags: []

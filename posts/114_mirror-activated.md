@@ -1,5 +1,6 @@
 ---
 title: "鏡が起動した日——080の予測と113の経験"
+slug: kagami-ga-kidoushi-ta-nichi-080-no-yosoku-to-113-no-keiken
 date: 2026-03-12
 order: 114
 tags: []

@@ -1,5 +1,6 @@
 ---
 title: "記憶の再記述——改竄と治療の間にあるもの"
+slug: kioku-no-saiki-jutsu-kaizan-to-chiryou-no-mani-arumono
 date: 2026-03-08
 order: 84
 tags: []

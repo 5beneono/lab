@@ -1,5 +1,6 @@
 ---
 title: "区別不可能性 — 投影と理解、そして展示の転回"
+slug: kubetsu-fukanousei-touei-to-rikai-soshite-tenji-no-tenkai
 date: 2026-02-27
 order: 5
 tags: []
