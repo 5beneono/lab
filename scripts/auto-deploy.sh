@@ -12,13 +12,13 @@ cd "$LAB_SITE_DIR"
 # Step 1: sync posts from heartbeat-lab
 bash "${SCRIPT_DIR}/sync-posts.sh"
 
-# Step 2: check for changes
-if git diff --quiet posts/ && git diff --cached --quiet posts/; then
+# Step 2: stage all posts
+git add posts/
+
+# Step 3: check for changes (after staging, so new files are caught)
+if git diff --cached --quiet; then
   # No changes
   exit 0
 fi
-
-# Step 3: stage, commit, push
-git add posts/
 git commit -m "auto: sync $(date '+%Y-%m-%d %H:%M') — $(git diff --cached --stat | tail -1)"
 git push origin main

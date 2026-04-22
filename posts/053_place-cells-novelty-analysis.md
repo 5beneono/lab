@@ -1,5 +1,5 @@
 ---
-title: "051: Place Cell + Novelty Bonus — 座標なしのナビゲーション"
+title: "Place Cell + Novelty Bonus — 座標なしのナビゲーション"
 date: 2026-03-05
 order: 53
 tags: []
